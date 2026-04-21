@@ -9,13 +9,13 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: NEOFORGE
-      VERSION: 1.20.1
-      NEOFORGE_VERSION: 47.1.88
+      VERSION: 1.21.1
+      NEOFORGE_VERSION: 21.1.227
       ENABLE_ROLLING_LOGS: "true"
       DEBUG: "true"
       TZ: "Europe/Paris"
       DIFFICULTY: "normal"
-      MAX_PLAYERS: 10
+      MAX_PLAYERS: 5
       SERVER_NAME: "Nazarick-Kingdom"
       VIEW_DISTANCE: "32"
       INIT_MEMORY: "4G"
